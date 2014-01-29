@@ -1,0 +1,2 @@
+serviceClass: com.sampleapp.client.LoginService
+path: 1D9706E0F5A6F6192ADC331023FCF156.gwt.rpc

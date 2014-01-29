@@ -1,0 +1,2 @@
+serviceClass: com.sampleapp.client.StockService
+path: 9345AA0952BDA2BCE491A501EE9378CB.gwt.rpc
